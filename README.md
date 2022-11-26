@@ -1,10 +1,5 @@
 # React-Ecommerce-website
-### Work Under Progress
-
-### Version 1 :
 * The data is stored locally and not on Firestore
-* GraphQL has not been used.
-version 1 is hosted [HERE!](https://ak-clothing-attempt-two.herokuapp.com/)
 
 An E commerce platform made using React JS, Redux, Firebase (authentication), Firestore, Stripe API (temporarily creating dummy payment gateway)
 
@@ -26,34 +21,6 @@ The application is composed of the following Features:
 * It is also used to store user data 
 * In the future it will also hold all shopping related and cart related dtaa of each user.
 
-**Progress:**
-Version 1 completed and hosted
-
-Version 2 Progress: 50%
-<br/>
-![](src/assets/progressbar.png)
-
-
-**SCREENSHOTS:**
-
-Landing Page:
-
-![](src/assets/main-screen.png)
----
-Product Preview:
-
-![](src/assets/preview-page.png)
----
-Sign-in && Sign-Up Page:
-
-![](src/assets/signinup.png)
-
-Cart Section:
-
-![](src/assets/cart.png)
-
----
-
 ## Developed With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
@@ -70,12 +37,6 @@ Cart Section:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-The following software is required to be installed on your system:
-
-* Node 8.x
-* Npm 3.x
 
 Type the following commands in the terminal to verify your node and npm versions
 
@@ -88,17 +49,7 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-* Clone _'react-e-commerce-website.git'_ repository from GitHub
-
-  ```bash
-  git clone https://github.com/AdityaKumawat97/react-e-commerce-website.git
-  ```
-
-   _OR USING SSH_
-
-  ```bash
-  git clone git@github.com:AdityaKumawat97/react-e-commerce-website.git
-  ```
+* Clone repository from GitHub
 
 * Install node modules
 
